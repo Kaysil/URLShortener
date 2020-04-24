@@ -8,6 +8,9 @@
 - Main command: /short
 
 #### Example:
-- /short url [vanity]<br>
-- /short https://google.com<br>
-  - /short https://google.com ditmegoogle
+- /short /<url/> [vanity]
+```
+- /short https://google.com
+```
+ /short https://google.com ditmegoogle
+```
