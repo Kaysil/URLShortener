@@ -15,5 +15,5 @@
 - /short https://google.com
 ```
 ```
- /short https://google.com ditmegoogle
+ - /short https://google.com ditmegoogle
 ```
