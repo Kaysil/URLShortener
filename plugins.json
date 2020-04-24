@@ -1,0 +1,26 @@
+{
+	"plugin_name": "URLShorteer",
+	"plugin_scope": "urlshortener",
+	"plugin_exec": "urlshortener.js",
+	"command_map": {
+		"short": {
+			"hargs": {
+				"vi_VN": "<url> [vanity]",
+				"en_US": "<url> [vanity]"
+			},
+			"hdesc": {
+				"vi_VN": "Rút gọn liên kết",
+				"en_US": "Short your URL"
+			},
+			"fscope": "urlshortener",
+			"compatibly": 1
+		}
+	},
+	"dependents": [
+		"URLShortenerAPI"
+	],
+	"author": "KAYSIL",
+	"version": "1.0",
+	"node_depends": {},
+	"complied_for": "0.3.0"
+}
