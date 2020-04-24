@@ -1,5 +1,5 @@
-# ShortURL PLUGIN #
-### ShortURL plugin based on ShortURLAPI for C3CBot
+# URLShortener PLUGIN #
+### URLShortener plugin based on URLShortenerAPI for C3CBot
 ### Author: Kaysil (me) ##
 
 ### Usage/Using:
